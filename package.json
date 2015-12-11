@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eiriklv/infinite-scroll-1.git"
+    "url": "https://github.com/eiriklv/everscroll.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eiriklv/infinite-scroll-1/issues"
+    "url": "https://github.com/eiriklv/everscroll/issues"
   },
-  "homepage": "https://github.com/eiriklv/infinite-scroll-1",
+  "homepage": "https://github.com/eiriklv/everscroll",
   "devDependencies": {
     "babel": "^6.3.13",
     "babel-cli": "^6.3.17",

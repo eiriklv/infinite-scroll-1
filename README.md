@@ -1,4 +1,8 @@
-# Infinite-Scroll
+Everscroll
+----------
+
+Really simple infinite scroll library
+
 Thanks to: https://github.com/alexblack/infinite-scroll
 
 - No dependencies
